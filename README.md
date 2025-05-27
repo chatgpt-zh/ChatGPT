@@ -23,11 +23,8 @@
 
 | 网站名称               | 支持功能                                 | 类型              | 访问方式                                                                                                      |
 |------------------------|------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------|
-| 一下AI                 | GPT-4.0、GPT o1、AI绘画、AI翻译            | 网站              | [www.yixiaai.com](http://www.yixiaai.com)                                                                     |
-| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站              | [chat.lify.vip](http://chat.lify.vip)                                                                          |
-| ChatGPT For Desktop    | GPT 全系列模型                            | 电脑客户端         | [ChatGPT For Desktop 下载链接](http://chatknow.lify.vip/software/AI智慧岛_1.0.0_x64_zh-CN.msi)                  |
-| ChatGPT for Edge       | Edge 浏览器插件，全系列模型                | Edge浏览器插件     | [Microsoft Edge 插件下载](https://microsoftedge.microsoft.com/addons/detail/chatgpt中文版中文界面对话写作绘画/lmlenkgcieicbnpobkhmpcgmamahahil) |
-| ChatGPT for Chrome     | Chrome 浏览器插件，全系列模型              | Chrome浏览器插件   | [Google Chrome 插件下载](https://chromewebstore.google.com/detail/chatgpt中文版ai智慧岛/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) |
+| 一下AI                 | GPT-4.0、GPT o1、AI绘画、AI翻译            | 网站              | [xsimplechat.com](http://xsimplechat.com)                                                                     |
+| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站              | [chat.lanjing.pro](http://chat.lanjing.pro)                                                                          |
 
 
 ---
@@ -61,7 +58,7 @@
 
 ## 快速开始使用 ChatGPT 中文版
 
-1. **选择镜像站点**：访问推荐的镜像站点，如 chat.lify.vip。
+1. **选择镜像站点**：访问推荐的镜像站点，如 chat.lanjing.pro。
 2. **注册账号**：使用您的邮箱或手机号完成注册。
 3. **选择模型**：根据需要选择 GPT-4、GPT-3.5 或 GPT-o1。
 4. **享受体验**：输入您的问题，获得准确和高效的回答！
